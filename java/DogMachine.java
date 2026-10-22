@@ -12,4 +12,7 @@ public class DogMachine
 public class KnownDogs
 {
     public void getDog(String dogName)
+    {
+        System.out.println("getDog() called");
+    }
 }
