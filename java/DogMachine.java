@@ -30,8 +30,7 @@ public class DogMachine
             case "beagle":
                 break;
             
-            
-
+            case 
             default:
                 System.out.println("[ FATAL ] Breed not recognized. Falling back...");
                 //Fallback breed is beagle
@@ -94,57 +93,62 @@ public class DogDb
                 break;
 
             case 2:
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
+                //Dauchshund
+                System.out.println("            __     ");
+                System.out.println("(|,--------'()'--o ");
+                System.out.println(" (_    ___    /~#  ");
+                System.out.println("  (_)_)  (_)_)     ");
                 break;
 
             case 3:
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
+                //Hound :]
+                System.out.println("    ___                     ");
+                System.out.println(" __/ \\/ |                  ");
+                System.out.println("|      \\                   ");
+                System.out.println("|_--\\   \\              /- ");
+                System.out.println("     \\   \\-___________/ / ");
+                System.out.println("      \\                :   ");
+                System.out.println("      |                :    ");
+                System.out.println("      |      _____     )    ");
+                System.out.println("       |  __/     \\    )   ");
+                System.out.println("        | /         \\  |   ");
+                System.out.println("        |l           \\ l   ");
+                System.out.println("        |l            ll    ");
+                System.out.println("        |l            ll    ");
+                System.out.println("       / l           / l    ");
+                System.out.println("       --/           --     ");
                 break;
 
             case 4:
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
+                //Labrador
+                System.out.println("    _________      ");
+                System.out.println("   |    |    \\    ");
+                System.out.println("    \\   /    \\   ");
+                System.out.println("   / \\_/   |  \\  ");
+                System.out.println("  /            \\  ");
+                System.out.println(" /    ____       0 ");
+                System.out.println("/      /  \\_____/ ");
                 break;
 
             case 5:
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
+                //Bulldog
+                System.out.println(",-.___,-.   ");
+                System.out.println("\\_/_ _\\_/ ");
+                System.out.println("  )O_O(     ");
+                System.out.println(" { (_) }    ");
+                System.out.println("  `-^-'     ");
                 break;
 
             case 6:
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
+                //Westie/west highland terrier
+                System.out.println("/^-----^\\       ");
+                System.out.println("V  o o  V        ");
+                System.out.println(" |  Y  |         ");
+                System.out.println("  \\ V /         ");
+                System.out.println("  / - \\         ");
+                System.out.println("  |    \\        ");
+                System.out.println("  |     \\     ) ");
+                System.out.println("  || (___\\====  ");
                 break;
 
             case 7:
