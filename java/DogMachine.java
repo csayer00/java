@@ -1,6 +1,5 @@
 package com.csayer.DogMachine;
 import java.util.Scanner;
-import java.util.scanner;
 
 public class DogMachine
 {
@@ -30,7 +29,6 @@ public class DogMachine
             case "beagle":
                 break;
             
-            case 
             default:
                 System.out.println("[ FATAL ] Breed not recognized. Falling back...");
                 //Fallback breed is beagle
