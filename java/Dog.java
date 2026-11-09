@@ -1,3 +1,4 @@
+package com.csayer.DogMachine;
 
 public class Dog
 {

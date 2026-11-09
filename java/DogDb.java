@@ -1,3 +1,5 @@
+package com.csayer.DogMachine;
+
 public class DogDb
 {
     private static int ver = 1;
